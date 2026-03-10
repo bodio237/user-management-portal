@@ -1,0 +1,23 @@
+# Node / React
+frontend-react/node_modules
+frontend-react/build
+
+# Java / Spring Boot
+backend-springboot/user-management-api/user-management-api/target
+backend-springboot/user-management-api/user-management-api/.mvn/wrapper/maven-wrapper.jar
+
+# Environment / secrets
+.env
+*.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode
+.idea
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
