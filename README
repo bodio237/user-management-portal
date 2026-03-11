@@ -91,15 +91,15 @@ MongoDB Database
 
 ## Application Dashboard
 
-![Dashboard](screenshots/user-management-dashboard.png)
+![Dashboard](./screenshots/user-management-dashboard.png)
 
 ## API Endpoint Test (Postman)
 
-![API](screenshots/api-endpoint.png)
+![API](./screenshots/api-endpoint.png)
 
 ## Project Structure
 
-![Structure](screenshots/project-structure.png)
+![Structure](./screenshots/project-structure.png)
 
 ---
 
@@ -176,7 +176,7 @@ http://localhost:3000
 
 # Author
 
-Pricilia
+Pricilia Bodio
 
 ---
 
